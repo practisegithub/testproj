@@ -1,0 +1,8 @@
+ssh://git@newsource.accenture.com/fmw/adop-b-framework-oracle-fmw-cartridge.git
+ssh://git@newsource.accenture.com/fmw/docker-oracle-fmw.git
+ssh://git@newsource.accenture.com/fmw/ec2-create.git
+ssh://git@newsource.accenture.com/fmw/fmw-docker-build.git
+ssh://git@newsource.accenture.com/fmw/oracle-db-12c.git
+ssh://git@newsource.accenture.com/fmw/oracle-fmw-12.git
+
+
